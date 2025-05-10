@@ -1,2 +1,7 @@
 # myBPmyLife
-The mHealth intervention, named myBPmyLife, a Physical Activity and Diet Just-In-Time Adaptive Intervention to Reduce Blood Pressure: A Randomized Controlled Trial. 
+Title: The mHealth intervention, named myBPmyLife, a Physical Activity and Diet Just-In-Time Adaptive Intervention to Reduce Blood Pressure: A Randomized Controlled Trial. 
+We conducted a prospective, randomized-controlled trial that enrolled hypertensive patients from the University of Michigan Health (Ann Arbor, MI) and Hamilton Community Health Network (Flint, MI). Participants were randomized to a control or intervention group receiving the myBPmyLife application, a just-in-time adaptive intervention encouraging physical activity and lower-sodium food choices. 
+
+Study groups: Both the intervention and control groups received a smartwatch (Fitbit Versa 2) and a home Bluetooth BP monitor (Omron Evolv BP7000) with the associated applications. 
+
+Study Outcomes: The primary outcome was systolic BP (SBP) change from baseline to 6 months as collected from the home BP monitor. This was assessed by averaging three SBP measurements collected within a 10-minute window at baseline and 6 months. Secondary endpoints included changes between baseline and 6 months for 1) diastolic BP (DBP) (collected similarly to SBP), 2) mean daily step count assessed using the Fitbit smartwatch (measured during the first week after enrollment and the last week), and 3) mean dietary sodium intake assessed by the Block Sodium Screener Questionnaire20. For the analysis of step count, participants who wore their Fitbit smartwatch for at least 3 valid days within 7 days at baseline and 6 months were included.
